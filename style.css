@@ -1,0 +1,29 @@
+.autoSlides{
+    position: absolute;
+    top: 52px;
+    transition: transform .8s;
+    transform: translateX(220%);
+}
+
+.autoSlides2{
+    position: absolute;
+    top: 52px;
+    transition: transform .8s;
+    transform: translateX(220%);
+}
+
+/* .sliding{
+    transition: transform .8s;
+} */
+
+.slider1{
+    transform: translateX(120%);
+    
+}
+
+.clientSlider{
+    /* transform: translate(170%); */
+    position: absolute;
+}
+
+
